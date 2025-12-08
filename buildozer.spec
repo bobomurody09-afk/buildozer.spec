@@ -18,5 +18,4 @@ android.api = 30
 android.minapi = 21
 android.ndk = 23b
 android.sdk = 30
-android.arch = armeabi-v7a
-android.permissions = INTERNET
+android.arch
